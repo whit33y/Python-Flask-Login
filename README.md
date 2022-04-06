@@ -5,4 +5,4 @@ How to run it?
 2. pip3 install flask
 3. python3 main.py
 4. On browser http://127.0.0.1:5000
-5. That's it
+5. Thats it
