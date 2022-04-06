@@ -6,3 +6,4 @@ How to run it?
 3. python3 main.py
 4. On browser http://127.0.0.1:5000
 5. Thats it
+<3 Big up Tech With Tim
